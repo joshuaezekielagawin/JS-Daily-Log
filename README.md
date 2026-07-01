@@ -1,1 +1,1 @@
-daily login
+daily logins
